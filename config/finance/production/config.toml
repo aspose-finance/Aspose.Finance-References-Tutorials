@@ -6,4 +6,4 @@ gtm_id = "GTM-NJMHSH"
 
 [[deployment.targets]]
 name = "Production"
-URL = "s3://reference.aspose.com/?prefix=tutorials/Finance/&region=us-west-2"
+URL = "s3://reference.aspose.com/?prefix=tutorials/finance/&region=us-west-2"
