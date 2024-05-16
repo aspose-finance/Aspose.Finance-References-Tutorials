@@ -1,8 +1,8 @@
-baseURL = "https://reference2.aspose.com/tutorials/Finance"
+baseURL = "https://reference2.aspose.com/tutorials/finance"
 
 [[deployment.targets]]
 name = "Stage"
-URL = "s3://reference2.aspose.com/?prefix=tutorials/Finance/&region=us-west-2"
+URL = "s3://reference2.aspose.com/?prefix=tutorials/finance/&region=us-west-2"
 
 
 
